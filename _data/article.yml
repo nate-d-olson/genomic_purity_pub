@@ -28,7 +28,7 @@ affiliations:
     department: "Biosystems and Biomaterials Division"
     location: "Gaithersburg, Maryland, USA"
     members:
-      - *nathanolson
+      - *nathan-olson
       - *justin-zook
       - *nancy-lin
 
@@ -43,16 +43,16 @@ contributions:
   - name: "Investigation"
     url: http://dictionary.casrai.org/Contributor_Roles/Investigation
     contributors:
-      - *olson
+      - *nathan-olson
 
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
     contributors:
-      - *olson
+      - *nathan-olson
 
   - name: "Writing - review & editing"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing
     contributors:
-      - *olson
+      - *nathan-olson
       - *justin-zook
       - *nancy-lin
